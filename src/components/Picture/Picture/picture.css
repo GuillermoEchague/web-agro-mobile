@@ -1,0 +1,22 @@
+.picture .image-container img {
+    width: 100%;
+}
+
+.picture .card-metadata {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image-motion {
+    animation: loadmotion 1s;
+}
+
+@keyframes loadmotion {
+    0%{
+        opacity: 0.1;
+    }
+    100%{
+        opacity: 1;
+    }
+}

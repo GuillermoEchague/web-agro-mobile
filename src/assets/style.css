@@ -1,0 +1,8 @@
+.photo-container {
+    width: 100px;
+}
+
+.photo-container img{
+    width: 100%;
+    height: 100%;
+}
