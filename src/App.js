@@ -1,6 +1,6 @@
 
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Navbar from './components/Navigation/Navbar';
+// import Navbar from './components/Navigation/Navbar';
 import { useContext } from 'react';
 import { AuthContext } from './context/AuthContext';
 import PrivateRoute from './components/Routing/PrivateRoute';
