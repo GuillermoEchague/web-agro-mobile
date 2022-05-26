@@ -14,13 +14,13 @@ const Cards = () => {
                         src='images/ai3.jpg'
                         text='Explore una solución que utiliza I.A en el Agro'
                         label='Inteligencia Artificial'
-                        path='/services'                  
+                        path='/'                  
                         />
                         <CardItem
                         src='images/movil3.jpg'
                         text='Aplicación Móvil para detección de Enfermedades'
                         label='Android'
-                        path='/services'                  
+                        path='/'                  
                         />
 
                     </ul>
